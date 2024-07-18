@@ -1,7 +1,3 @@
-# redes-neurais-pib
-Previsão do PIB da América Latina utilizando Redes Neurais
-
-
 # Rede neural para previsão do PIB de países da América do Sul
 
 **Tito. L Dhayse**

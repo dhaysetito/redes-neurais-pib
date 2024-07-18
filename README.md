@@ -202,7 +202,7 @@ observada na Figura <a href="#fig:model" data-reference-type="ref"
 data-reference="fig:model">2</a>.
 
 <figure id="fig:model">
-<img src="figure/model.png" style="width:3in;height:3in" />
+<img src="model.png" style="width:3in;height:3in" />
 <figcaption>Resumo da arquitetura do modelo usado.</figcaption>
 </figure>
 
@@ -245,7 +245,7 @@ data-reference="fig:mapa">1</a>, que apresenta apenas os dados do
 Brasil.
 
 <figure id="fig:mapa2">
-<img src="figure/mapa.png" style="width:3in;height:3in" />
+<img src="mapa2.png" style="width:3in;height:3in" />
 <figcaption>Mapa de calor do banco de dados.</figcaption>
 </figure>
 
@@ -270,7 +270,7 @@ Quadrático Médio) durante o treinamento com validação. Por volta da
 época 50 jpa obteve uma estabilidade.
 
 <figure id="fig:loss">
-<img src="figure/loss.png" style="width:3in;height:3in" />
+<img src="loss.png" style="width:3in;height:3in" />
 <figcaption>Gráfico de treino e validação com parâmetro de loss igual a
 MSE.</figcaption>
 </figure>

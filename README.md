@@ -153,7 +153,7 @@ capita)". A escolha foi baseada no mapa de calor visto na Figura
 data-reference="fig:mapa">1</a>.
 
 <figure id="fig:mapa">
-<img src="figure/mapa.png" style="width:3in;height:3in" />
+<img src="mapa.png" style="width:3in;height:3in" />
 <figcaption>Mapa de calor do banco de dados referente ao
 Brasil.</figcaption>
 </figure>
